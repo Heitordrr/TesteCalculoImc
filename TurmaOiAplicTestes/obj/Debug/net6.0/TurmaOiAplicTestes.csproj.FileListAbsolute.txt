@@ -1,0 +1,12 @@
+C:\Users\Heito\OneDrive\Documentos\OI\SENAI\UC 18\TurmaOiAplicTestes\TurmaOiAplicTestes\bin\Debug\net6.0\TurmaOiAplicTestes.deps.json
+C:\Users\Heito\OneDrive\Documentos\OI\SENAI\UC 18\TurmaOiAplicTestes\TurmaOiAplicTestes\bin\Debug\net6.0\TurmaOiAplicTestes.dll
+C:\Users\Heito\OneDrive\Documentos\OI\SENAI\UC 18\TurmaOiAplicTestes\TurmaOiAplicTestes\bin\Debug\net6.0\TurmaOiAplicTestes.pdb
+C:\Users\Heito\OneDrive\Documentos\OI\SENAI\UC 18\TurmaOiAplicTestes\TurmaOiAplicTestes\obj\Debug\net6.0\TurmaOiAplicTestes.csproj.AssemblyReference.cache
+C:\Users\Heito\OneDrive\Documentos\OI\SENAI\UC 18\TurmaOiAplicTestes\TurmaOiAplicTestes\obj\Debug\net6.0\TurmaOiAplicTestes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Heito\OneDrive\Documentos\OI\SENAI\UC 18\TurmaOiAplicTestes\TurmaOiAplicTestes\obj\Debug\net6.0\TurmaOiAplicTestes.AssemblyInfoInputs.cache
+C:\Users\Heito\OneDrive\Documentos\OI\SENAI\UC 18\TurmaOiAplicTestes\TurmaOiAplicTestes\obj\Debug\net6.0\TurmaOiAplicTestes.AssemblyInfo.cs
+C:\Users\Heito\OneDrive\Documentos\OI\SENAI\UC 18\TurmaOiAplicTestes\TurmaOiAplicTestes\obj\Debug\net6.0\TurmaOiAplicTestes.csproj.CoreCompileInputs.cache
+C:\Users\Heito\OneDrive\Documentos\OI\SENAI\UC 18\TurmaOiAplicTestes\TurmaOiAplicTestes\obj\Debug\net6.0\TurmaOiAplicTestes.dll
+C:\Users\Heito\OneDrive\Documentos\OI\SENAI\UC 18\TurmaOiAplicTestes\TurmaOiAplicTestes\obj\Debug\net6.0\refint\TurmaOiAplicTestes.dll
+C:\Users\Heito\OneDrive\Documentos\OI\SENAI\UC 18\TurmaOiAplicTestes\TurmaOiAplicTestes\obj\Debug\net6.0\TurmaOiAplicTestes.pdb
+C:\Users\Heito\OneDrive\Documentos\OI\SENAI\UC 18\TurmaOiAplicTestes\TurmaOiAplicTestes\obj\Debug\net6.0\ref\TurmaOiAplicTestes.dll
